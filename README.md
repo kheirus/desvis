@@ -1,2 +1,2 @@
 # desvis
-dessiner et visionner des objets géometriques
+DESsiner puis VISionner des objets géometriques
