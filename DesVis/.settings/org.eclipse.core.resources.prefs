@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/com/phlacheux/figures/AbstractFigure.java=UTF-8
+encoding//src/com/phlacheux/figures/Carre.java=UTF-8
+encoding//src/com/phlacheux/figures/Cercle.java=UTF-8
+encoding//src/com/phlacheux/figures/Hexagone.java=UTF-8
+encoding//src/com/phlacheux/figures/Ligne.java=UTF-8
+encoding//src/com/phlacheux/figures/Rectangle.java=UTF-8
+encoding//src/com/phlacheux/figures/Segment.java=UTF-8
+encoding//src/com/phlacheux/vue/ChoixFigure.java=UTF-8
+encoding//src/com/phlacheux/vue/ChoixTransformations.java=UTF-8
+encoding//src/com/phlacheux/vue/Fenetre.java=UTF-8
+encoding//src/com/phlacheux/vue/RoundButton.java=UTF-8
+encoding//src/com/phlacheux/vue/RoundedBorder.java=UTF-8
+encoding//src/com/phlacheux/vue/ToolBar.java=UTF-8

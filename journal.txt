@@ -1,0 +1,27 @@
+DesVis est une application Java permettant le dessin de plusieurs formes géométriques, ainsi que des transformations qu’on peut appliquer à ces derniers (changement d’épaisseur de tait, rotation, déplacement…)
+L’application permet aussi de visionner le dessin, c’est à dire de voir la création du dessin dès le début avec ces multiples transformations dans le temps à l’aide d’un lecteur qu’on appellera « visionneuse ».
+
+Version 1 :
+
+- Panel de dessin « Toile » pour voir les figure et leurs transformations.
+- Panel de figure (en haut à droite) permettant la création et donc le dessin des figure, dans cette version on a juste le dessin de l’ellipse ainsi que le dessin libre.
+- Panel de transformation, juste en dessous de celui des figures, celui ci permet de soit: dessiner, déplacer ou supprimer les figures.  
+-Fenetre principale, cette Frame nous permet de voir l’application avec deux bouton pour « Annuler » la dernière action (pour le moment la dernière figure) et un bouton « Tout effacer » pour euuh, tout effacer.
+
+Version 1.1 (17/04) :
+Test d’une nouvelle interface pour l’utilisateur :
+	- Changement du dispositif des panneaux.
+	- Changement de couleur de fond de la toile.
+	- Changement de couleur des figures par défaut.
+- Ajout d’un JToolBar pour les bouton de figures.
+- Amélioration du bouton déplacer, changement de couleur lors de la selection.
+- Idée pour la fin de l’application: 
+	- Faire bouger (danser) les objets sur du Harlem Shake (son de fond).
+
+
+Version 1.2 :
+Changement radical de l’interface, ajout de la visionneuse.
+
+____________________________________________________________________________
+
+Rajout des animations et réglage de quelques bugs.
